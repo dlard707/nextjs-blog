@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #0070f3;
+  color: rgb(222, 204, 238);
   text-decoration: none;
 }
 
@@ -26,7 +26,8 @@ p{
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
+  color: white;
 }
 
 img {
@@ -41,6 +42,7 @@ button{
   font-size: 18px;
   border-radius: 5px;
   cursor: pointer;
+  text-decoration: none;
 }
 
 h1{
