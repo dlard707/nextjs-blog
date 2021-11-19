@@ -63,7 +63,8 @@ body
   /* make it look decent enough */
   background: #F2BE19;
   color: #cdcdcd;
-  font-family: "Avenir Next", "Avenir", sans-serif;
+  /* font-family: "Avenir Next", "Avenir", sans-serif; */
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #menuToggle
